@@ -11,7 +11,6 @@ List of best tools for startups
 - supportfu.com
 
 #### Team collaboration 
-- supportfu.com
 - https://slack.com/
 - https://github.com/
 - https://www.dropbox.com/
